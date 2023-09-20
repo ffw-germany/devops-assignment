@@ -2,7 +2,7 @@
 Here's an example of a Python Flask web application that includes functionality for inserting, updating, and deleting items from a simple list.
 
 # Requirements
-To run locally you need [Python](https://www.python.org/downloads/) with [pip](https://pip.pypa.io/en/stable/getting-started/). 
+To run locally you need [python](https://www.python.org/downloads/) with [pip](https://pip.pypa.io/en/stable/getting-started/).
 Make sure to install necessary modules before starting the application.
 
 ```python
